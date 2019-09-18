@@ -20,3 +20,5 @@ def oxford_comma(array)
       string << "and " + final 
     end  
 end
+
+CREATE TABLE artists(PRIMARY KEY ID, name, album_title);
